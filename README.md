@@ -38,7 +38,7 @@ This section highlights production-grade ML systems, focusing on pipeline automa
     * **Action:** Fine-tuned transformer models using PyTorch and HuggingFace. Implemented advanced data visualization for bias detection and optimized training for distributed systems.
     * **Result:** Achieved a **0.88 AUC** score on the public leaderboard, ensuring fair and accurate model predictions.
  
-### 🎮 [Esport Outcome Prediction Pipeline (June 2025)](https://github.com/jsacko/LoL-predict)
+### 🎮 [Esport Outcome Prediction MLOps Pipeline (June 2025)](https://github.com/jsacko/LoL-predict)
 * **Tools:** Azure ML, Docker, Apache Airflow, MLflow, FastAPI, PostgreSQL, Grafana
 * **Description:** Designed an automated MLOps pipeline to predict League of Legends match outcomes.
     * **Situation:** Need for a reliable, automated system to ingest match data and generate real-time predictions.
@@ -76,3 +76,7 @@ Foundational projects focusing on data structures, algorithms, and low-level pro
 * **[N-Queens Solver](https://github.com/jsacko/Project-Nqueen-Py)** (Python): Algorithmic solution to the classic N-Queens problem, exploring backtracking and optimization techniques.
 * **[Tiling Game](https://github.com/jsacko/TilerTeam)** (Java): Implemented a logic-based tiling game to demonstrate object-oriented programming principles and complex state management.
 * **[Speed Skating Manager](https://github.com/jsacko/Speed-Skating)** (C): Developed a competition management system in C to handle athlete data and race timing logic.
+  
+### 🤝 Let’s Connect
+
+Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/julien-sacko/).
