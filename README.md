@@ -51,13 +51,7 @@ This section highlights production-grade ML systems, focusing on pipeline automa
 
 A collection of full-stack and mobile applications demonstrating product development and database management skills.
 
-### 📱 [Shoot - Photographer Booking App](https://github.com/jsacko/Shoot)
-* **Tools:** TypeScript, React Native, SQL, PostgreSQL
-* **Description:** Developed and deployed a mobile marketplace connecting photographers with clients.
-    * **Action:** Built a cross-platform mobile app using React Native and TypeScript, backed by a PostgreSQL database for robust user and booking management.
-    * **Result:** Successfully deployed to the App Store, providing a seamless booking experience for users.
-
-### 🕹️ [Outscale - The LinkedIn of Esport](https://github.com/jsacko/Outscale)
+### 🕹️ [Outscale - The LinkedIn of Esport](https://github.com/jsacko/Outscale_Esport_Networking)
 * **Tools:** TypeScript, React, SQL
 * **Description:** Built a professional networking platform tailored for the esports industry.
     * **Action:** Developed a React and TypeScript web application connected to a PostgreSQL database, enabling players and teams to discover talent and connect.
@@ -66,6 +60,12 @@ A collection of full-stack and mobile applications demonstrating product develop
 ### 🛠️ [DevOps Infrastructure Lab](https://github.com/jsacko/devOps_labs_and_project)
 * **Tools:** Kubernetes, Docker, Javascript
 * **Description:** A repository demonstrating practical implementation of core DevOps principles, including containerization and orchestration.
+
+### 📱 [Shoot - Photographer Booking App](https://github.com/jsacko/Shoot)
+* **Tools:** TypeScript, React Native, SQL, PostgreSQL
+* **Description:** Developed and deployed a mobile marketplace connecting photographers with clients.
+    * **Action:** Built a cross-platform mobile app using React Native and TypeScript, backed by a PostgreSQL database for robust user and booking management.
+    * **Result:** Successfully deployed to the App Store, providing a seamless booking experience for users.
 
 ---
 
