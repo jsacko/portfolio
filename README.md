@@ -57,15 +57,15 @@ A collection of full-stack and mobile applications demonstrating product develop
     * **Action:** Developed a React and TypeScript web application connected to a PostgreSQL database, enabling players and teams to discover talent and connect.
     * **Result:** Created a functional MVP that facilitates professional connections within the gaming ecosystem.
 
-### 🛠️ [DevOps Infrastructure Lab](https://github.com/jsacko/devOps_labs_and_project)
-* **Tools:** Kubernetes, Docker, Javascript
-* **Description:** A repository demonstrating practical implementation of core DevOps principles, including containerization and orchestration.
-
 ### 📱 [Shoot - Photographer Booking App](https://github.com/jsacko/Shoot)
 * **Tools:** TypeScript, React Native, SQL, PostgreSQL
 * **Description:** Developed and deployed a mobile marketplace connecting photographers with clients.
     * **Action:** Built a cross-platform mobile app using React Native and TypeScript, backed by a PostgreSQL database for robust user and booking management.
     * **Result:** Successfully deployed to the App Store, providing a seamless booking experience for users.
+
+### 🛠️ [DevOps Infrastructure Lab](https://github.com/jsacko/devOps_labs_and_project)
+* **Tools:** Kubernetes, Docker, Javascript
+* **Description:** A repository demonstrating practical implementation of core DevOps principles, including containerization and orchestration.
 
 ---
 
