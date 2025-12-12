@@ -1,4 +1,4 @@
-#  Julien Sacko | Machine Learning Engineering Portfolio
+#  Julien Sacko | ML & Software Engineering Portfolio
 
 Welcome to my engineering portfolio! I am a data-driven professional specializing in building scalable **Machine Learning pipelines** and robust **software applications**. My work focuses on end-to-end MLOps, cloud infrastructure, and full-stack development.
 
